@@ -7,7 +7,23 @@ As questões de inserção não foram feito o CountingSort em C e o RadixSort em
 
 ## Resultado
 
-O Resultado do trabalho está no novo display do GitHub o **PROJECTS**
+01 - SELECAO (JAVA): **100%**  
+02 - SELECAOREC (C): **100%**  
+03 - INSERCAO (JAVA): **100%**  
+04 - SHELLSORT (C): **100%**  
+05 - HEAPSORT (JAVA): **33.9%** **34.7**  
+06 - QUICKSORT (JAVA): **62.4%** **46.4%**  
+07 - COUNTSORT (C): **NÃO FOI FEITO (MESMA BASE DO RADIX)**  
+08 - BOLHA (JAVA): **100%**  
+09 - MERGESORT (JAVA): **34%** **40.1%**  
+10 - RADIXSORT (JAVA): **NÃO FOI FEITO (ERRO)**  
+11 - LISTA FLEX (JAVA): **100%**  
+12 - PILHA FLEX (JAVA): **100**  
+13 - FILA FLEX (JAVA): **ERROR**  
+14 - QUICKSORT LISTA DUPLA (JAVA): **NÃO FOI FEITO**  
+15 - PILHA FLEXIVEL EM C (C): **NÃO FOI FEITO**  
+16 - QUICKSORT LISTA DUPLA (C): **NÃO FOI FEITO**  
+17 - MATRIZ DINAMICA (JAVA): **NÃO FOI FEITO**
 
 ## Desenvolvimento
 
