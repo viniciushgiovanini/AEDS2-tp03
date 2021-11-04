@@ -2,7 +2,7 @@
 //AULA: AEDS2
 //MATRICULA: 692225
 
-//Programa não deu certo não consegui implementar o código da pilha em C para String FAIL
+//Programa não deu certo não consegui implementar o código da pilha em C para String FAIL ( questão 15 que deu errado *)
 
 #include <stdio.h>
 #include <string.h>
